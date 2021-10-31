@@ -1,0 +1,9 @@
+body {
+	background: blue;
+}
+ol#sarapan li{
+	color: white;
+}
+ol#sarapan li.favorite {
+	color: red;
+}
